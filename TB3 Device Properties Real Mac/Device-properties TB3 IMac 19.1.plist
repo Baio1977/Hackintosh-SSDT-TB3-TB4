@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>PciRoot(0x0)/Pci(0x1c,0x4)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
+        <dict>
+            <key>TBTDPLowToHigh</key>
+            <data>AQAAAA==</data>
+            <key>TBTFlags</key>
+            <data>AwAAAA==</data>
+            <key>ThunderboltConfig</key>
+            <data>AAIcAAIABQMBAAQABQMCAAMABQMBAAAAAwMCAAEAAgA=</data>
+            <key>ThunderboltDROM</key>
+            <data>yQDTAMmuFQEAJvLsQwFYAAEADQABAAiBgAKAAAAACIKQAYAAAAAIg4AEgAEAAAiEkAOAAQAABYUJAQAFhgkBAAKHA4ggA4mAAsoCyw0BQXBwbGUgSW5jLgAMAk1hY2ludG9zaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+            <key>ThunderboltUUID</key>
+            <data>ZFRz8jEmaF+uYSnzeaXyQg==</data>
+            <key>linkDetails</key>
+            <data>CAAAAAMAAAA=</data>
+            <key>pathcr</key>
+            <data>BAAAAAAAAAAAAAcAEAAQAAUAAAAAAAAAAAAHABAAEAABAAAACwAOAA4AAAAAAAAAAgAAAAAAAAAAAAQAAgABAAMAAAAAAAAAAAAHAAIAAQA=</data>
+            <key>sscOffset</key>
+            <data>AAc=</data>
+        </dict>
+    </dict>
+</plist>

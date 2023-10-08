@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>PciRoot(0x0)/Pci(0x1,0x1)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
+        <dict>
+            <key>TBTDPLowToHigh</key>
+            <data>AQAAAA==</data>
+            <key>TBTFlags</key>
+            <data>AwAAAA==</data>
+            <key>ThunderboltConfig</key>
+            <data>AAL//wwABwEBAAoABwECAAsABwEBAA0ABwECAAIAAQA=</data>
+            <key>ThunderboltDROM</key>
+            <data>6ACFsYDWoAEACptg+gFeAAEADAABAAiBgAKAAAAACIKQAYAAAAAIg4AEgAEAAAiEkAOAAQAACIUAAAAAAAADhiADh4ACyAWJUAAABYpQAAACyw0BQXBwbGUgSW5jLgAMAk1hY2ludG9zaAA=</data>
+            <key>ThunderboltUUID</key>
+            <data>hLkDXc3LrluuioqUCN0RXg==</data>
+            <key>linkDetails</key>
+            <data>CAAAAAMAAAA=</data>
+            <key>pathcr</key>
+            <data>BAAAAAAAAAAAAAcAEAAQAAUAAAAAAAAAAAAHABAAEAABAAAACwAOAA4AAAAAAAAAAgAAAAAAAAAAAAQAAgABAAMAAAAAAAAAAAAHAAIAAQA=</data>
+            <key>sscOffset</key>
+            <data>AAc=</data>
+        </dict>
+        <key>PciRoot(0x0)/Pci(0x1,0x2)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
+        <dict>
+            <key>TBTDPLowToHigh</key>
+            <data>AQAAAA==</data>
+            <key>TBTFlags</key>
+            <data>AwAAAA==</data>
+            <key>ThunderboltConfig</key>
+            <data>AQL//wwABwEBAAoABwECAAsABwEBAA4ABwECAAQAAwA=</data>
+            <key>ThunderboltDROM</key>
+            <data>+wGFsYDWoAEABM6NYQFeAAEADAABAAiBgQKBAAAACIKRAYEAAAAIg4EEgQEAAAiEkQOBAQAACIUAAAAAAAADhiADh4ACyAWJUAAABYpQAAACyw0BQXBwbGUgSW5jLgAMAk1hY2ludG9zaAA=</data>
+            <key>ThunderboltUUID</key>
+            <data>gj6ITm+OaVi8l9igylbzCw==</data>
+            <key>linkDetails</key>
+            <data>CAAAAAMAAAA=</data>
+            <key>pathcr</key>
+            <data>BAAAAAAAAAAAAAcAEAAQAAUAAAAAAAAAAAAHABAAEAABAAAACwAOAA4AAAAAAAAAAgAAAAAAAAAAAAQAAgABAAMAAAAAAAAAAAAHAAIAAQA=</data>
+            <key>sscOffset</key>
+            <data>AAc=</data>
+        </dict>
+    </dict>
+</plist>
