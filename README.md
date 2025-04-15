@@ -3,3 +3,9 @@
  
  ## Driver EFI TBForce (KabyLake)
  https://github.com/al3xtjames/ThunderboltPkg
+
+ ## How the TB3 device appears in ioreg
+
+ ![Ioreg](./Screenshot/TB3 JHL6240-6340-7340-7440.png)
+ 
+![Ioreg](./Screenshot/TB3 JHL6540-7540.png)
