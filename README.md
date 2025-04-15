@@ -8,4 +8,4 @@
 
 ![image](https://github.com/Baio1977/Hackintosh-SSDT-TB3-TB4/blob/main/Screenshot/TB3%20JHL6240-6340-7340-7440.png)
 
-![image](https://github.com/Baio1977/Hackintosh-SSDT-TB3-TB4/blob/main/Screenshot/TB3%20JHL6540-7540)
+![image](https://github.com/Baio1977/Hackintosh-SSDT-TB3-TB4/blob/main/Screenshot/TB3%20JHL6540-7540.png)
