@@ -17,6 +17,8 @@ DefinitionBlock ("", "SSDT", 2, "HACK", "TB4H", 0x00000000)
     {
         Scope (_SB)
         {
+            // Check your Bios original ACPI and adjust SSDT according to your motherboard structure.
+            //Scope (PCI0,PC00 ecc.ecc)
             Scope (PCI0)
             {
                 Scope (TDM0)
